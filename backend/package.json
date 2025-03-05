@@ -1,0 +1,11 @@
+{
+  "name": "seminar-management-backend",
+  "version": "1.0.0",
+  "description": "Backend for seminar management application using json-server",
+  "scripts": {
+    "start": "json-server --watch seminars.json --port 3001"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

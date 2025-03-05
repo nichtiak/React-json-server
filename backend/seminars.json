@@ -1,0 +1,84 @@
+{
+  "seminars": [
+    {
+      "id": 1,
+      "title": "Новинки Kosmoteros333",
+      "description": "Обзор новых средств и методик от Kosmoteros.4444",
+      "date": "2025-05-01",
+      "time": "15:30",
+      "photo": "https://mesoforia.ru/wp-content/uploads/2022/07/3176-atronyl-peel-kosmoteros-paris-30-ml-kosmoteros.jpg"
+    },
+    {
+      "id": 3,
+      "title": "музыка123",
+      "description": "мзыкальный фест123",
+      "date": "2025-03-20",
+      "time": "12:00",
+      "photo": "https://www.ok-magazine.ru/images/cache/2020/4/30/fit_795_547_false_crop_1600_900_0_62_q90_468381_bbeaefa197a9485d085309383.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Эффективные методики омоложения",
+      "description": "Обучение современным методикам омоложения и ухода за кожей.",
+      "date": "2025-12-31",
+      "time": "15:00",
+      "photo": "https://alvi-prague.ua/image/cache/catalog/blog/omolozenie-kozi/neinvazivnye-apparatnye-metodiki-omolozenia-00-848x424.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Инновационные средства Kosmoteros",
+      "description": "Демонстрация новых продуктов Kosmoteros и их уникальных свойств.",
+      "date": "2025-05-30",
+      "time": "16:00",
+      "photo": "https://sun9-9.userapi.com/s/v1/ig2/jdJDd73-BiwW35xolcPtm2-uP_VaeKIgYmEY7rlk1lSz7IEXCnOcKsIpwcxHTAcq6VCuTwKYkL15xxr9WA6l2wkY.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x479,540x539,640x639,720x719,1080x1079,1280x1279,1440x1438,1920x1918&from=bu&u=xuznzxKI-UUWT4o8TaVST73Cccn6dwb2P4r5Pn7ycQ0&cs=807x806"
+    },
+    {
+      "id": 8,
+      "title": "Современные тренды в уходе за кожей",
+      "description": "Семинар о новейших трендах в уходе за кожей и эффективных методах лечения.",
+      "date": "2025-10-10",
+      "time": "17:00",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-mg-DNcnexHJxp8JVScVLatEYNSgkZshZ5w&s"
+    },
+    {
+      "title": "Мотосеминар",
+      "date": "2025-06-02",
+      "time": "18:00",
+      "description": "Соберутся все байкеры, приедут гости,  много веселья и конкурсов",
+      "photo": "https://avatars.mds.yandex.net/get-kino-vod-films-gallery/34144/ddcaacb6a45d684bf4dc51470d7281aa/380x240",
+      "id": 11
+    },
+    {
+      "title": "семинар рукоделия",
+      "date": "2025-02-03",
+      "time": "10:30",
+      "description": "будем все вязать ",
+      "photo": "https://mr.moscow/wp-content/uploads/2023/05/731945-scaled.jpg",
+      "id": 12
+    },
+    {
+      "title": "Кулинарный семинар",
+      "date": "2024-02-20",
+      "time": "15:15",
+      "description": "Приготовим 50 литров солянки",
+      "photo": "https://static.1000.menu/img/content-v2/08/52/13122/myasnaya-sbornaya-solyanka-s-kartoshkoj_1587447498_19_max.jpg",
+      "id": 13
+    },
+    {
+      "title": "Семинар Kosmoteros",
+      "date": "2013-12-13",
+      "time": "12:12",
+      "description": "Обсуждение перспектив развития косметологии и роли инноваций.",
+      "photo": "https://sun9-34.userapi.com/impg/r5nrAIV44aDFfZ3OvPiW1oGKRxwwtDgiYDIIOw/Qr0yx5BYjbc.jpg?size=604x604&quality=95&sign=316a03f240394188a3b95403ad5590a2&type=album",
+      "id": 14
+    },
+    {
+      "title": "Актерское мастерство",
+      "date": "2025-05-25",
+      "time": "12:00",
+      "description": "Постановка Гамлет",
+      "photo": "https://moscowseasons.com/uploads/2018/06/04/5b15c5f9e4305.jpg",
+      "id": 15
+    }
+  ]
+}
